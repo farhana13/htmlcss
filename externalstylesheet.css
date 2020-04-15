@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="externalstylesheet.css"> 
+body {
+	background-color: black;
+	color: white;
+}
+h1 {
+	background-color: black;
+	color: white;
+	font-size: 150%
+
+}
+header{
+	text-align: center;
+}
+nav{
+	text-align: right;
+}
+h2{
+	color: white;
+	background-color: gray 
+}
+h1 {
+	font-variant: small-caps;
+	font-size: 150%
+	font-family: Arial, "Time New Roman", serif;
+}
+p{
+	color: gray;
+	text-align: justify;
+}
+details{
+	font-style: italic;
+
+}
+summary{
+	font-style: normal;
+}
+footer{
+	background: #666666;
+}
